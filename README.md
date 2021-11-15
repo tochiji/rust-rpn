@@ -12,7 +12,7 @@ $ cargo install --path .
 
 `cargo`コマンドがない場合は、[rustup を事前にインストール](https://www.rust-lang.org/ja/tools/install)してください。
 
-下記のように表示されれば、インストールが成功です。
+下記のように表示されれば、インストール成功です。
 
 ```console
 ...
